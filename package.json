@@ -1,0 +1,24 @@
+{
+  "name": "coaching-js-refactor-temporal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mojility/Coaching-JS-Refactoring-Temporal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mojility/Coaching-JS-Refactoring-Temporal/issues"
+  },
+  "homepage": "https://github.com/Mojility/Coaching-JS-Refactoring-Temporal#readme",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2",
+    "sinon": "^2.4.1"
+  }
+}
